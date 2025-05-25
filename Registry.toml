@@ -1,0 +1,6 @@
+name = "HespanhaRegistry.jl"
+uuid = "951af33b-d96e-4957-8eea-3a9aff55af0e"
+repo = "https://github.com/HespanhaPublic/HespanhaRegistry.jl"
+description = "Joao Hespanha's registry for julia packages"
+
+[packages]
