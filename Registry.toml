@@ -8,5 +8,6 @@ description = "Joao Hespanha's registry for julia packages"
 26f64549-84f9-45a4-806b-e6e7796e7b6b = { name = "EstimationTools", path = "E/EstimationTools" }
 39d49837-840f-4d86-bc40-9457d55593c9 = { name = "Pbits", path = "P/Pbits" }
 3dbfd599-0c1f-4f2d-bb2d-f8131609b0c4 = { name = "JuliaRL", path = "J/JuliaRL" }
+8a8b15cc-6c17-48e5-9fb0-4cabf7426e98 = { name = "TrackBenchmarks", path = "T/TrackBenchmarks" }
 c5c423d8-fb57-4129-8844-2e492d6cb670 = { name = "IPsparse", path = "I/IPsparse" }
 c6951c0e-398c-11f0-2c23-0d5eb665e95e = { name = "ConvergenceLoggers", path = "C/ConvergenceLoggers" }
