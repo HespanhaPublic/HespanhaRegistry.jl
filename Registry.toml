@@ -4,3 +4,4 @@ repo = "https://github.com/HespanhaPublic/HespanhaRegistry.jl"
 description = "Joao Hespanha's registry for julia packages"
 
 [packages]
+26f64549-84f9-45a4-806b-e6e7796e7b6b = { name = "EstimationTools", path = "E/EstimationTools" }
