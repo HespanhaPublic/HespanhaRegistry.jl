@@ -11,4 +11,4 @@ description = "Joao Hespanha's registry for julia packages"
 651d1c28-5f8d-4b26-91d9-468bf8b4a262 = { name = "ClusterUtils", path = "C/ClusterUtils" }
 8a8b15cc-6c17-48e5-9fb0-4cabf7426e98 = { name = "TrackBenchmarks", path = "T/TrackBenchmarks" }
 c5c423d8-fb57-4129-8844-2e492d6cb670 = { name = "IPsparse", path = "I/IPsparse" }
-c6951c0e-398c-11f0-2c23-0d5eb665e95e = { name = "ConvergenceLoggers", path = "C/ConvergenceLoggers" }
+c6951c0e-398c-11f0-2c23-0d5eb665e95e = { name = "ConvergenceLoggers.jl", path = "C/ConvergenceLoggers" }
