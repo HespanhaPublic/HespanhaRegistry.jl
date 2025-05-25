@@ -5,3 +5,4 @@ description = "Joao Hespanha's registry for julia packages"
 
 [packages]
 26f64549-84f9-45a4-806b-e6e7796e7b6b = { name = "EstimationTools", path = "E/EstimationTools" }
+3dbfd599-0c1f-4f2d-bb2d-f8131609b0c4 = { name = "JuliaRL", path = "J/JuliaRL" }
