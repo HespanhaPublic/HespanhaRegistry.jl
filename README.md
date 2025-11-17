@@ -11,6 +11,22 @@ pkg"registry add General https://github.com/HespanhaPublic/HespanhaRegistry.jl"
 
 Some of the repositories in this registry are private and will not work for most people.
 
+## Adding package to registry
+
+1) Activate the package to register, e.g., by starting in the package home directory with
+
+   ```bash
+   julia --project=.
+   ```
+
+2) Execute
+
+   ```julia
+   using LocalRegistry
+   register(registry="HespanhaRegistry.jl")
+   ```
+
+
 ## Updating package
 
 The recommended way to register a package or a new version of a package is to 
